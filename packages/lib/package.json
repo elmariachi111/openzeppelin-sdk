@@ -1,6 +1,6 @@
 {
-  "name": "@openzeppelin/upgrades",
-  "version": "2.8.0-rc.0",
+  "name": "@elmariachi111/openzeppelin-upgrades",
+  "version": "2.8.3",
   "description": "JavaScript library for the OpenZeppelin smart contract platform",
   "main": "./lib/index.js",
   "private": false,
@@ -45,11 +45,12 @@
     "evm"
   ],
   "publishConfig": {
+    "registry": "https://npm.pkg.github.com/elmariachi111",
     "access": "public"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OpenZeppelin/openzeppelin-sdk.git"
+    "url": "git+https://github.com/elmariachi111/openzeppelin-sdk.git"
   },
   "bugs": {
     "url": "https://github.com/OpenZeppelin/openzeppelin-sdk/issues"
