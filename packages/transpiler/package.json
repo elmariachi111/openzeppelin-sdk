@@ -1,6 +1,6 @@
 {
-  "name": "@openzeppelin/upgradeability-transpiler",
-  "version": "0.1.0",
+  "name": "@elmariachi111/upgradeability-transpiler",
+  "version": "0.1.1",
   "description": "Transpiles Solidity contracts to updgradable versions compatible with OpenZeppelin SDK.",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OpenZeppelin/openzeppelin-sdk.git"
+    "url": "git+https://github.com/elmariachi111/openzeppelin-sdk.git"
   },
   "keywords": [
     "solidity",
@@ -37,6 +37,7 @@
     "ajv": "^6.10.2",
     "lodash": "^4.17.15"
   },
+  
   "devDependencies": {
     "@types/lodash": "^4.14.149",
     "@types/node": "^13.1.4",
